@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "category": "free weights",
+      "title": "barbell weights",
+      "price": 19.99,
+      "image": {"url": "./images/barbell-weights.jpg" }
+    },
+    {
+      "id": "2",
+      "category": "equipment",
+      "title": "jogging track",
+      "price": 129.99,
+      "image": { "url": "./images/jogging-track.jpg" }
+    },
+    {
+      "id": "3",
+      "category": "equipment",
+      "title": "basketball",
+      "price": 12.99,
+      "image": { "url": "./images/basketball.jpg" }
+    },
+    {
+      "id": "4",
+      "category": "free weights",
+      "title": "dumbbell weights",
+      "price": 25.99,
+      "image": { "url": "./images/dumbbell-weights.jpg" }
+    },
+    {
+      "id": "5",
+      "category": "free weights",
+      "title": "dumbbell",
+      "price": 28.99,
+      "image": { "url": "./images/dumbbell.jpg" }
+    },
+    {
+      "id": "6",
+      "category": "equipment",
+      "title": "tennis ball",
+      "price": 5.99,
+      "image": { "url": "./images/tennis-ball.jpg" }
+    },
+    {
+      "id": "7",
+      "category": "equipment",
+      "title": "powerlifting belt",
+      "price": 35.99,
+      "image": { "url": "./images/powerlifting-belt.jpg" }
+    },
+    {
+      "id": "8",
+      "category": "free weights",
+      "title": "kettlebell",
+      "price": 28.99,
+      "image": { "url": "./images/kettlebell.jpg" }
+    },
+    {
+      "id": "9",
+      "category": "equipment",
+      "title": "exercise ball",
+      "price": 30.99,
+      "image": { "url": "./images/exercise-ball.jpg" },
+      "sale": true,
+      "oldprice": 39.99
+    },
+    {
+      "id": "10",
+      "category": "free weights",
+      "title": "medicine ball ",
+      "price": 12.99,
+      "image": { "url": "./images/medicine-ball.jpg" },
+      "sale": true,
+      "oldprice": 16.99
+    },
+    {
+      "id": "11",
+      "category": "equipment",
+      "title": "dumbbell rack",
+      "price": 45.99,
+      "image": { "url": "./images/dumbbell-rack.jpg" },
+      "sale": true,
+      "oldprice": 59.99
+    },
+    {
+      "id": "12",
+      "category": "equipment",
+      "title": "adjustable weight bench",
+      "price": 59.99,
+      "image": { "url": "./images/adjustable-weight-bench.jpg" },
+      "sale": true,
+      "oldprice": 79.99
+    }
+  ]
+}
